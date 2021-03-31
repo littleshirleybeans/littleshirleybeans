@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @littleshirleybeans.
-- 👀 I’m interested in reading books, watching movies and of course coding!
+- 👀 I’m interested in front-end.
 - 🌱 I’m currently learning JavaScript, CSS, HTML, etc.
 - 📫 You may reach me at: littleshirleybeans@protonmail.com
 
