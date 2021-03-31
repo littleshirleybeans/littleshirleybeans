@@ -1,7 +1,6 @@
 - 👋 Hi there, I’m @littleshirleybeans.
 - 👀 I’m interested in reading books, watching movies and of course coding!
 - 🌱 I’m currently learning JavaScript, CSS, HTML, etc.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You may reach me at: littleshirleybeans@protonmail.com
 
 <!---
