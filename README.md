@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @littleshirleybeans.
+- 👋 Hi there, I’m @littleshirleybeans.
 - 👀 I’m interested in reading books, watching movies and of course coding!
 - 🌱 I’m currently learning JavaScript, CSS, HTML, etc.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You may reach me at: littleshirleybeans@protonmail.com
 
 <!---
 littleshirleybeans/littleshirleybeans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
